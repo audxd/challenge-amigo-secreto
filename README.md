@@ -30,7 +30,7 @@ Este proyecto es es una aplicación que permite a los usuarios agregar nombres a
 - En VS CODE puedes ejecutar el proyecto en ```index.html``` con la extensión **live Server**
   ![image](https://github.com/user-attachments/assets/a092c2ab-5fcc-482e-894e-f986bba9b41c)
 
-- Enlace de Github Page:
+- Enlace de Github Page: https://audxd.github.io/challenge-amigo-secreto/
 
 ## Posibles Problemas y Soluciones
 - **Problema**: No hay un limite en la cantidad de nombres de amigos que se puede añadir.
